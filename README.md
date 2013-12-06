@@ -31,7 +31,7 @@ It is a well known problem that annotators disagree on the metrical level of a m
 
 Intros that do not contain any musical content have not been annotated, and should not be taken into account in the evaluation.
 
-Whenever we find errors in the annotations (I am sure there are still some!), we will create a new tag in the git repo and commit the changes. So, please include the tags into the publications tu assure the reproducability of your results. 
+Whenever we find errors in the annotations (I am sure there are still some!), we will create a new tag in the git repo and commit the changes. So, please include the tags into the publications to assure the reproducability of your results. 
 
 Contact: 
 ------------
