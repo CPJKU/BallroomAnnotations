@@ -35,7 +35,7 @@ Whenever we find errors in the annotations (I am sure there are still some!), we
 
 Contact
 ------------
-For any errors that you find, please contact Florian Krebs <florian.krebs@jku.at>.
+For any questions or error reports, please contact Florian Krebs <florian.krebs@jku.at>.
 
 Acknowledgements
 ------------
