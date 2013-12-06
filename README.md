@@ -8,6 +8,8 @@ beat and downbeat detection algorithms. It does not include the audio files. The
 <http://www.iua.upf.edu/mtg/ismir2004/contest/tempoContest/data1.tar.gz> (accessed latest Dec 2013).   
 Md5sum of the file data1.tar.gz: 2872a3e52070bc342a4510a95e2fa0b8
 
+Note: File `Albums-Latin_Jam-06` and `Albums-Latin_Jam-15` are identical.
+
 Format
 ------------
 The annotations consist of `.beats` files that contain the beat and bar annotations in the following format:  
