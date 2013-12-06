@@ -5,6 +5,7 @@ Description
 ------------
 This data set includes `beat` and `bar` annotations which can be used for the evaluation of
 beat and downbeat detection algorithms. It does not include the audio files. The audio files (size 1.5 gb) can be downloaded from:
+
 <http://www.iua.upf.edu/mtg/ismir2004/contest/tempoContest/data1.tar.gz> (accessed latest Dec 2013). 
 md5sum of the file data1.tar.gz: 2872a3e52070bc342a4510a95e2fa0b8
 
@@ -12,6 +13,7 @@ Format
 ------------
 The annotations consist of `.beats` files that contain the beat and bar annotations in the following format:
 <beat time in sec> <bar number>.<beat position within the bar>
+
 E.g., 
 9.430022675	9.3
 means the third beat of the ninth bar is located at 9.43 seconds.
@@ -19,6 +21,7 @@ means the third beat of the ninth bar is located at 9.43 seconds.
 Reference
 ------------
 If you use these annotations please cite the following paper:
+
 F. Krebs, S. Böck, and G. Widmer.
 Proceedings of the 14th International Society for Music Information Retrieval
 Conference (ISMIR), Curitiba, Brazil, 2013.
