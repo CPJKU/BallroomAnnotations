@@ -5,7 +5,7 @@ Description
 ------------
 This data set includes `beat` and `bar` annotations which can be used for the evaluation of
 beat and downbeat detection algorithms. It does not include the audio files. The audio files (698 files, size 1.5 gb) can be downloaded from:  
-<http://www.iua.upf.edu/mtg/ismir2004/contest/tempoContest/data1.tar.gz> (accessed latest Dec 2013).   
+<http://mtg.upf.edu/ismir2004/contest/tempoContest/node5.html> (accessed latest Dec 2013).   
 Md5sum of the file data1.tar.gz: 2872a3e52070bc342a4510a95e2fa0b8
 
 Note: File `Albums-Latin_Jam-06` and `Albums-Latin_Jam-15` are identical.
