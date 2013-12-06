@@ -21,7 +21,7 @@ Reference
 ------------
 If you use these annotations please cite the following paper:    
 
-Rhythmic Pattern Modeling for Beat- and Downbeat Tracking in Musical Audio  
+Rhythmic Pattern Modeling for Beat and Downbeat Tracking in Musical Audio  
 F. Krebs, S. Böck, and G. Widmer. Proceedings of the 14th International Society for Music Information Retrieval Conference (ISMIR), Curitiba, Brazil, 2013.  
    
 Annotation strategy
@@ -33,7 +33,7 @@ Intros that do not contain any musical content have not been annotated, and shou
 
 Whenever we find errors in the annotations (I am sure there are still some!), we will create a new tag in the git repo and commit the changes. So, please include the tags into the publications to assure the reproducability of your results. 
 
-Contact: 
+Contact
 ------------
 For any errors that you find, please contact Florian Krebs <florian.krebs@jku.at>.
 
