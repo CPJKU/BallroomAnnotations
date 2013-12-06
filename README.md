@@ -1,4 +1,4 @@
-ballroom_db
+ballroom beat and bar annotations
 ===========
 
 Description
@@ -11,7 +11,7 @@ md5sum of the file data1.tar.gz: 2872a3e52070bc342a4510a95e2fa0b8
 Format
 ------------
 The annotations consist of `.beats` files that contain the beat and bar annotations in the following format:  
-`beat time in sec` `bar number.beat position within the bar`  
+`beat time in sec` `bar number`.`beat position within the bar`  
 E.g., 9.430022675	9.3  
 means the third beat of the ninth bar is located at 9.43 seconds.
 
