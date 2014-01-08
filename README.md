@@ -35,7 +35,7 @@ Intros that do not contain any musical content have not been annotated, and shou
 
 Version control
 ------------
-Note that the annotations are stored in a versioning system, which allows us to update the annotations from time to time while keeping track of older versions. Whenever new errors in the annotations are identified and resolved (I am sure there are still some), we will create a new tag in the git repo and commit the changes. So, please include the tags into your publications to assure the reproducibility of your results. 
+Note that the annotations are stored in a versioning system, which allows us to update the annotations from time to time while keeping track of older versions. Whenever new errors in the annotations are identified and resolved (I am sure there are still some), we will create a new tag in the git repo and commit the changes. In order to assure the reproducibility of your results, it would be also advisable to include the tags into your publications. 
 
 Error reporting and contact
 ------------
