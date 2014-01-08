@@ -9,8 +9,11 @@ Md5sum of the file data1.tar.gz: 2872a3e52070bc342a4510a95e2fa0b8
 
 Note: File `Albums-Latin_Jam-06` and `Albums-Latin_Jam-15` are identical.
 
-[1] Evaluating rhythmic descriptors for musical genre classification  
-F. Gouyon, S. Dixon, E. Pampalk, and G. Widmer. Proceedings of the AES 25th International Conference, London, UK, 2004.
+[1] F. Gouyon, A. Klapuri, S. Dixon, M. Alonso, G. Tzanetakis, C. Uhle, and P.
+Cano. An experimental comparison of audio tempo induction
+algorithms. IEEE Transactions on Audio, Speech and Language Processing
+14(5), pp.1832-1844, 2006.
+
 
 Format
 ------------
@@ -35,7 +38,7 @@ Intros that do not contain any musical content have not been annotated, and shou
 
 Version control
 ------------
-Note that the annotations are stored in a versioning system, which allows us to update the annotations from time to time while keeping track of older versions. Whenever new errors in the annotations are identified and resolved (I am sure there are still some), we will create a new tag in the git repo and commit the changes. In order to assure the reproducibility of your results, it would be also advisable to include the tags into your publications. 
+Note that the annotations are stored in a versioning system, which allows us to update the annotations from time to time while keeping track of older versions. Whenever new errors in the annotations are identified and resolved (I am sure there are still some), we will create a new tag in the git repo and commit the changes. In order to assure the reproducibility of your results, it would also be advisable to include the tags into your publications. 
 
 Error reporting and contact
 ------------
