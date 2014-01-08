@@ -33,11 +33,14 @@ It is a well known problem that annotators disagree on the metrical level of a m
 
 Intros that do not contain any musical content have not been annotated, and should not be taken into account in the evaluation.
 
-Whenever we find errors in the annotations (I am sure there are still some!), we will create a new tag in the git repo and commit the changes. So, please include the tags into the publications to assure the reproducibility of your results. 
-
-Contact
+Version control
 ------------
-For any questions or error reports, please contact Florian Krebs <florian.krebs@jku.at>.
+Note that the annotations are stored in a versioning system, which allows us to update the data from time to time while keeping track of older versions. Whenever new errors in the annotations are identified and ressolved (I am sure there are still some!), we will create a new tag in the git repo and commit the changes. So, please include the tags into your publications to assure the reproducibility of your results. 
+
+Error reporting and contact
+------------
+We strongly encourage everybody to report errors in the dataset to  
+Florian Krebs <florian.krebs@jku.at>. 
 
 Acknowledgements
 ------------
