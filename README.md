@@ -9,9 +9,10 @@ Md5sum of the file data1.tar.gz: 2872a3e52070bc342a4510a95e2fa0b8
 
 Note: File `Albums-Latin_Jam-06` and `Albums-Latin_Jam-15` are identical.
 
-[1] F. Gouyon, A. Klapuri, S. Dixon, M. Alonso, G. Tzanetakis, C. Uhle, and P.
-Cano. An experimental comparison of audio tempo induction
-algorithms. IEEE Transactions on Audio, Speech and Language Processing
+[1] An experimental comparison of audio tempo induction
+algorithms.
+F. Gouyon, A. Klapuri, S. Dixon, M. Alonso, G. Tzanetakis, C. Uhle, and P.
+Cano. IEEE Transactions on Audio, Speech and Language Processing
 14(5), pp.1832-1844, 2006.
 
 
