@@ -7,7 +7,26 @@ This data set includes `beat` and `bar` annotations of the ballroom dataset, int
 <http://mtg.upf.edu/ismir2004/contest/tempoContest/node5.html> (accessed latest Dec 2013).   
 Md5sum of the file data1.tar.gz: 2872a3e52070bc342a4510a95e2fa0b8
 
-Note: File `Albums-Latin_Jam-06` and `Albums-Latin_Jam-15` are identical.
+Note: According to Bob Sturm (<http://media.aau.dk/null_space_pursuits/2014/01/ballroom-dataset.html>) there are four exact and nine recording replicas within the dataset. These include:
+
+####Exact replicas
+
+    Quickstep/Albums-AnaBelen_Veneo-11.wav matches Quickstep/Albums-Chrisanne2-12.wav      
+    ChaChaCha/Albums-Fire-08.wav matches Samba/Albums-Fire-09.wav      
+    ChaChaCha/Albums-Latin_Jam2-05.wav matches ChaChaCha/Albums-Latin_Jam2-13.wav      
+    Waltz/Albums-Secret_Garden-01.wav matches Waltz/Media-104705.wav
+    
+####Recording replicas
+
+    Rumba-international/Albums-AnaBelen_Veneo-03.wav matches Rumba-international/Albums-AnaBelen_Veneo-15.wav      
+    Waltz/Albums-Ballroom_Magic-03.wav matches Waltz/Albums-Ballroom_Magic-18.wav      
+    ChaChaCha/Albums-Latin_Jam-04.wav matches ChaChaCha/Albums-Latin_Jam-13.wav      
+    Rumba-international/Albums-Latin_Jam-08.wav matches Rumba-international/Albums-Latin_Jam-14.wav      
+    Samba/Albums-Latin_Jam-06.wav matches Samba/Albums-Latin_Jam-15.wav      
+    Samba/Albums-Latin_Jam2-02.wav matches Samba/Albums-Latin_Jam2-14.wav  
+    Rumba-international/Albums-Latin_Jam2-07.wav matches Rumba-international/Albums-Latin_Jam2-15.wav      
+    ChaChaCha/Albums-Latin_Jam3-02.wav matches ChaChaCha/Media-103414.wav      
+    ChaChaCha/Media-103402.wav matches ChaChaCha/Media-103415.wav
 
 [1] An experimental comparison of audio tempo induction
 algorithms  
