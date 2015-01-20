@@ -28,19 +28,20 @@ Note: According to Bob Sturm (<http://media.aau.dk/null_space_pursuits/2014/01/b
     ChaChaCha/Albums-Latin_Jam3-02.wav matches ChaChaCha/Media-103414.wav      
     ChaChaCha/Media-103402.wav matches ChaChaCha/Media-103415.wav
 
-[1] An experimental comparison of audio tempo induction
-algorithms  
-F. Gouyon, A. Klapuri, S. Dixon, M. Alonso, G. Tzanetakis, C. Uhle, and P.
-Cano. IEEE Transactions on Audio, Speech and Language Processing
+[1] Gouyon F., A. Klapuri, S. Dixon, M. Alonso, G. Tzanetakis, C. Uhle, and P.
+Cano. An experimental comparison of audio tempo induction
+algorithms. IEEE Transactions on Audio, Speech and Language Processing
 14(5), pp.1832-1844, 2006.  
+[2] Böck, S., and M. Schedl. Enhanced beat tracking with context-aware neural networks. In Proceedings of the International Conference on Digital Audio Effects (DAFX), 2010.
+[3] Dixon, S., F. Gouyon & G. Widmer. Towards Characterisation of Music via Rhythmic Patterns. In Proceedings of the 5th International Society for Music Information Retrieval Conference (ISMIR). 2004.
 
 
 Format
 ------------
 The annotations consist of `.beats` files that contain the beat and bar annotations in the following format:  
-`beat time in sec` `bar number`.`beat position within the bar`  
-E.g., 9.430022675	9.3  
-means the third beat of the ninth bar is located at 9.43 seconds.
+`beat time in sec` `beat id`  
+E.g., 9.430022675	3  
+means the third beat of a bar is located at 9.43 seconds. If you are looking for downbeats, extract all beats with id = 1.
 
 Reference
 ------------
@@ -54,7 +55,7 @@ Annotation strategy
 It is a well known problem that annotators disagree on the metrical level of a musical piece. In this dataset we relied on the tempo restrictions that are given by the dance style label of the ballroom dances. We therefore chose the metrical level of the beats according to the tempo ranges taken from:  
 <http://www.ballroomdancers.com/Dances/>
 
-Intros that do not contain any musical content have not been annotated, and should not be taken into account in the evaluation.
+Intros that do not contain any musical content have not been annotated, and should not be taken into account in the evaluation. The dataset was annotated using two stages: First, we used a beat tracker [2] to interpolate the (manual) bar annotations kindly provided by Simon Dixon and used in [3]. Then, we manually adjusted and corrected the interpolated beat times.
 
 Version control
 ------------
