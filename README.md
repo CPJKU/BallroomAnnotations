@@ -28,12 +28,7 @@ Note: According to Bob Sturm (<http://media.aau.dk/null_space_pursuits/2014/01/b
     ChaChaCha/Albums-Latin_Jam3-02.wav matches ChaChaCha/Media-103414.wav      
     ChaChaCha/Media-103402.wav matches ChaChaCha/Media-103415.wav
 
-[1] Gouyon F., A. Klapuri, S. Dixon, M. Alonso, G. Tzanetakis, C. Uhle, and P.
-Cano. An experimental comparison of audio tempo induction
-algorithms. IEEE Transactions on Audio, Speech and Language Processing
-14(5), pp.1832-1844, 2006.  
-[2] Böck, S., and M. Schedl. Enhanced beat tracking with context-aware neural networks. In Proceedings of the International Conference on Digital Audio Effects (DAFX), 2010.
-[3] Dixon, S., F. Gouyon & G. Widmer. Towards Characterisation of Music via Rhythmic Patterns. In Proceedings of the 5th International Society for Music Information Retrieval Conference (ISMIR). 2004.
+
 
 
 Format
@@ -43,12 +38,8 @@ The annotations consist of `.beats` files that contain the beat and bar annotati
 E.g., 9.430022675	3  
 means the third beat of a bar is located at 9.43 seconds. If you are looking for downbeats, extract all beats with id = 1.
 
-Reference
-------------
-If you use these annotations please cite the following paper:    
 
-Rhythmic Pattern Modeling for Beat and Downbeat Tracking in Musical Audio  
-F. Krebs, S. Böck, and G. Widmer. Proceedings of the 14th International Society for Music Information Retrieval Conference (ISMIR), Curitiba, Brazil, 2013.  
+
    
 Annotation strategy
 ------------
@@ -68,4 +59,19 @@ Florian Krebs <florian.krebs@jku.at>.
 
 Acknowledgements
 ------------
-We would like to thank Simon Dixon who supplied us with his annotations of the first bar of each piece.
+We would like to thank Simon Dixon who supplied us with his annotations of the first bar of each piece.  
+
+
+References
+------------
+[1] Gouyon F., A. Klapuri, S. Dixon, M. Alonso, G. Tzanetakis, C. Uhle, and P.
+Cano. An experimental comparison of audio tempo induction
+algorithms. IEEE Transactions on Audio, Speech and Language Processing
+14(5), pp.1832-1844, 2006.  
+[2] Böck, S., and M. Schedl. Enhanced beat tracking with context-aware neural networks. In Proceedings of the International Conference on Digital Audio Effects (DAFX), 2010.  
+[3] Dixon, S., F. Gouyon & G. Widmer. Towards Characterisation of Music via Rhythmic Patterns. In Proceedings of the 5th International Society for Music Information Retrieval Conference (ISMIR). 2004.
+
+If you use these annotations please cite the following paper:    
+
+Rhythmic Pattern Modeling for Beat and Downbeat Tracking in Musical Audio  
+F. Krebs, S. Böck, and G. Widmer. Proceedings of the 14th International Society for Music Information Retrieval Conference (ISMIR), Curitiba, Brazil, 2013.  
