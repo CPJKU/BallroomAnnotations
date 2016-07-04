@@ -73,5 +73,5 @@ algorithms. Transactions on Audio, Speech and Language Processing
 
 If you use these annotations we are happy if you cite the following paper:    
 
-Rhythmic Pattern Modeling for Beat and Downbeat Tracking in Musical Audio  
-F. Krebs, S. Böck, and G. Widmer. Proceedings of the 14th International Society for Music Information Retrieval Conference (ISMIR), Curitiba, Brazil, 2013.  
+  
+F. Krebs, S. Böck, and G. Widmer. Rhythmic Pattern Modeling for Beat and Downbeat Tracking in Musical Audio. Proceedings of the 14th International Society for Music Information Retrieval Conference (ISMIR), Curitiba, Brazil, 2013.  
