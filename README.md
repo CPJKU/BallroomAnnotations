@@ -66,12 +66,12 @@ References
 ------------
 [1] Gouyon F., A. Klapuri, S. Dixon, M. Alonso, G. Tzanetakis, C. Uhle, and P.
 Cano. An experimental comparison of audio tempo induction
-algorithms. IEEE Transactions on Audio, Speech and Language Processing
+algorithms. Transactions on Audio, Speech and Language Processing
 14(5), pp.1832-1844, 2006.  
 [2] Böck, S., and M. Schedl. Enhanced beat tracking with context-aware neural networks. In Proceedings of the International Conference on Digital Audio Effects (DAFX), 2010.  
 [3] Dixon, S., F. Gouyon & G. Widmer. Towards Characterisation of Music via Rhythmic Patterns. In Proceedings of the 5th International Society for Music Information Retrieval Conference (ISMIR). 2004.
 
-If you use these annotations please cite the following paper:    
+If you use these annotations we are happy if you cite the following paper:    
 
 Rhythmic Pattern Modeling for Beat and Downbeat Tracking in Musical Audio  
 F. Krebs, S. Böck, and G. Widmer. Proceedings of the 14th International Society for Music Information Retrieval Conference (ISMIR), Curitiba, Brazil, 2013.  
