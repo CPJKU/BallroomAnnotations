@@ -4,19 +4,21 @@ Ballroom beat and bar annotations
 Description
 ------------
 This data set includes `beat` and `bar` annotations of the ballroom dataset, introduced by Gouyon et al. [1]. It does not include the audio files. The audio files (698 files, size 1.5 gb) can be downloaded from:  
-<http://mtg.upf.edu/ismir2004/contest/tempoContest/node5.html> (accessed latest Dec 2013).   
-Md5sum of the file data1.tar.gz: 2872a3e52070bc342a4510a95e2fa0b8
+<http://mtg.upf.edu/ismir2004/contest/tempoContest/node5.html> (accessed latest Dec 2013).
+The link to the data set is broken, please use <http://mtg.upf.edu/ismir2004/contest/tempoContest/data1.tar.gz> instead.
+Md5sum of the file `data1.tar.gz`: 2872a3e52070bc342a4510a95e2fa0b8
+
 
 Note: According to Bob Sturm (<http://media.aau.dk/null_space_pursuits/2014/01/ballroom-dataset.html>) there are four exact and nine recording replicas within the dataset. These include:
 
-####Exact replicas
+### Exact replicas
 
     Quickstep/Albums-AnaBelen_Veneo-11.wav matches Quickstep/Albums-Chrisanne2-12.wav      
     ChaChaCha/Albums-Fire-08.wav matches Samba/Albums-Fire-09.wav      
     ChaChaCha/Albums-Latin_Jam2-05.wav matches ChaChaCha/Albums-Latin_Jam2-13.wav      
     Waltz/Albums-Secret_Garden-01.wav matches Waltz/Media-104705.wav
     
-####Recording replicas
+### Recording replicas
 
     Rumba-international/Albums-AnaBelen_Veneo-03.wav matches Rumba-international/Albums-AnaBelen_Veneo-15.wav      
     Waltz/Albums-Ballroom_Magic-03.wav matches Waltz/Albums-Ballroom_Magic-18.wav      
